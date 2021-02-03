@@ -76,8 +76,8 @@ People spend hours at the gym, lifting weights, doing cardio exercises and follo
 The game's walkthrough is shown below:
  
 <br>
- 
-[https://www.youtube.com/embed/gauJ-nwoD0M](https://www.youtube.com/watch?v=gauJ-nwoD0M)
+
+[![https://www.youtube.com/watch?v=gauJ-nwoD0M](images/SplashScreen.gif)](https://www.youtube.com/watch?v=gauJ-nwoD0M "bFit-A-Cognitive-Game - Click to Watch!")
  
 <br>
  
