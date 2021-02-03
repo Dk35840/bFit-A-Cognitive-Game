@@ -77,7 +77,7 @@ The game's walkthrough is shown below:
  
 <br>
 
-[![https://www.youtube.com/watch?v=gauJ-nwoD0M](images/SplashScreen.gif)](https://www.youtube.com/watch?v=gauJ-nwoD0M "bFit-A-Cognitive-Game - Click to Watch!")
+[![https://www.youtube.com/watch?v=gauJ-nwoD0M](images/GamePlay.gif)](https://www.youtube.com/watch?v=gauJ-nwoD0M "bFit-A-Cognitive-Game - Click to Watch!")
  
 <br>
  
